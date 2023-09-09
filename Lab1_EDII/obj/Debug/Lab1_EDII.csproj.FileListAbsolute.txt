@@ -1,0 +1,11 @@
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\bin\Debug\Lab1_EDII.exe.config
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\bin\Debug\Lab1_EDII.exe
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\bin\Debug\Lab1_EDII.pdb
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\bin\Debug\Newtonsoft.Json.dll
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\bin\Debug\Newtonsoft.Json.xml
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\obj\Debug\Lab1_EDII.csproj.AssemblyReference.cache
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\obj\Debug\Lab1_EDII.csproj.SuggestedBindingRedirects.cache
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\obj\Debug\Lab1_EDII.csproj.CoreCompileInputs.cache
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\obj\Debug\Lab1_EDII.csproj.CopyComplete
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\obj\Debug\Lab1_EDII.exe
+D:\Cosas\Clases\2023\Estructura de datos\Lab1_EDII\obj\Debug\Lab1_EDII.pdb
