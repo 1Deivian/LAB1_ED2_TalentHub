@@ -1,0 +1,40 @@
+Nombre: David André Rodríguez Cano
+Carné: 1164619
+
+El programa funciona de la siguiente manera
+
+1. Lectura de Datos:
+El programa lee la Ruta del archivo de entrada (datos.txt) que contiene las acciones y datos. 
+y los almacena en un arbol binario, donde cumple las acciones para los diferentes casos que existen, 
+modificando de esta forma los datos del arbol, mostrando en la consola si la acción correspondiente 
+para la persona fue realizado correctamente.
+
+2. Creación del Listado 
+Para facilitar la busqueda de datos de la persona, decidi crear un listado con los nombre y dpi
+de las personas que continuan dentro del arbol despues de todas las operaciones realizadas 
+en la lectura de datos, para que la empresa pueda tener conocimiento de las personas aun dentro del arbol, 
+ya que con tantos datos y operaciones puede ser confuso saber que personas siguen dentro de la empresa.
+este listado es mostrado tanto como en la consola, como en un archivo almacenado en el mismo lugar 
+de donde se encontro el archivo de datos.
+
+3. Busqueda de personas
+Dentro de la consola se solicitara el nombre de la persona a la que se desea buscar, 
+si dicha persona es encontrada en el listado, mostrara en consola los datos de esta 
+y tambien se almacenaran los datos en el archivo bitacora, la cual se creara en
+el mismo lugar de donde se encuentra el archivo datos, en caso de no encontrar
+a la persona se mostrara un mendaje en consola, el cual dira que no se encontro.
+
+Recomendaciones
+mi recomendación en la busqueda es tener un acceso mas facil o una base de datos como el listado de las personas
+para poder saber en donde puedo empezar ya que sin este, seria mas difici saber si la persona todavia continua, 
+si el nombre realmente esta bien escrito, etc. lo cual algo asi disminuye el tiempo de respuesta tanto del usuario,
+como del programa y se evitan errores de la persona, ya que facilmente pueden acceder al archivo donde esta el listado
+de las personas que todavia siguen dentro de la empresa, por lo cual se podria copiar el nombre y pegar en el buscador 
+para generar la busqueda rapidamente y evitar errores en la escritura y eliminar el tiempo de escribir.
+
+*Los archivos de Listado y bitacora, subidos en el Git son solo ejemplos de como quedaria, al momento de utilizar el programa
+este creara los nuevos archivos donde este el archivo datos, o modificara estos ejemplos en el caso de que se haya guardado
+en el mismo lugar que el archivo datos.
+
+
+
